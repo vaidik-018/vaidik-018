@@ -23,12 +23,21 @@
 ---
 
 ## 📂 My Best Projects
-- 🔹 Vehicle Showroom Management System
-- 🔹 StyleMart E-Commerce Website
-- 🔹 Future sales prediction
+- 🔹 [Vehicle Showroom Management System] (https://vaidik-018.github.io/vehicle-showroom)
+- 🔹 [StyleMart E-Commerce Website] (https://vaidik-018.github.io/stylemart)
+- 🔹 [Future sales prediction] (https://vaidik-018.github.io/datathon)
+- 🔹 [number guessing game] (https://vaidik-018.github.io/number_guess)
+- 🔹 [wheather checking] (https://vaidik-018.github.io/weather_check)
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vaidik-018&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidik-018&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
 ## 📫 Connect With Me
 - LinkedIn: https://www.linkedin.com/in/vaidik-a8366b31b?
 - Email: vaidik462@gmail.com
