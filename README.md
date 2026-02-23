@@ -30,13 +30,12 @@
 - 🔹 [wheather checking] (https://vaidik-018.github.io/weather_check)
 
 ---
-## 📊 GitHub Stats
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vaidik-018&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaidik-018&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=vaidik-018&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=vaidik-018&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
