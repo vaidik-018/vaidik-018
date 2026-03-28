@@ -27,7 +27,7 @@
 - 🔹 [StyleMart E-Commerce Website] (https://vaidik-018.github.io/stylemart)
 - 🔹 [Future sales prediction] (https://vaidik-018.github.io/datathon)
 - 🔹 [number guessing game] (https://vaidik-018.github.io/number_guess)
-- 🔹 [wheather checking] (https://vaidik-018.github.io/weather_check)
+- 🔹 [expense-tracker] (https://github.com/vaidik-018/expense-tacker)
 
 ---
 
